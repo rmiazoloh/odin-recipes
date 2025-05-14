@@ -1,0 +1,32 @@
+body{
+    background-color: #bba1a1;
+    font-family: Arial, sans-serif;
+}
+.description{
+    font-size: 1.2em;
+    color: #333;
+    width: 80%;
+    margin: 48px auto;
+}
+.description img{
+    margin: auto;
+}
+.ingredient{
+    font-size: 1.2em;
+    color: #333;
+    width: 80%;
+    margin: 48px auto;
+}
+.step{
+    font-size: 1.2em;
+    color: #333;
+    width: 80%;
+    margin: 48px auto;
+}
+.footer{
+text-align: center;
+    font-size: 1.2em;
+    color: #333;
+    width: 80%;
+    margin: 48px auto;
+}
